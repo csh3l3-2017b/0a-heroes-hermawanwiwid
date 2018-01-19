@@ -31,7 +31,8 @@ Misi Anda adalah menentukan, apa peran dari masing-masing hero yang membutuhkan 
 * Heroes dengan physicalAttack >= 121, akan mendapat peran sebagai ASSASSIN (huruf kapital semua)
 * Heroes dengan hp >= 2580, akan mendapat peran sebagai FIGHTER (huruf kapital semua)
 * Heroes lainnya akan mendapat peran sebagai SUPPORT (huruf kapital semua)
-* Dengan contoh daftar hero dengan biodata di atas, maka program Anda akan menghasilkan file output bernama prediction.csv dengan isi sebagai berikut:
+
+Dengan contoh daftar hero dengan biodata di atas, maka program Anda akan menghasilkan file output bernama prediction.csv dengan isi sebagai berikut:
 
 * name,role
 * Layla,MARKSMAN
